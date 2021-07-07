@@ -1,0 +1,19 @@
+{
+  "manageCampaign": "Manage Campaigns",
+  "upcomingCampaign" : "Upcoming Campaigns",
+  "liveCampaign": "Live Campaigns",
+  "pastCampaign": "Past Campaigns",
+  "date": "DATE",
+  "view": "VIEW",
+  "actions": "ACTIONS",
+  "compaign": "COMPAIGN",
+  "viewPricing": "View Pricing",
+  "csv": "CSV",
+  "report": "Reported",
+  "scheduleAgain": "Schedule Again",
+  "en": "English",
+  "de": "German",
+  "pricing": "Pricing",
+  "close":"Close",
+  "noResultFound": "No Result Found"
+}

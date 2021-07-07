@@ -1,0 +1,19 @@
+{
+  "manageCampaign": "Kampagnen verwalten",
+  "upcomingCampaign" : "Kommende Kampagnen",
+  "liveCampaign": "Live-Kampagnen",
+  "noResultFound":"Keine Einträge gefunden",
+  "pastCampaign": "Vergangene Kampagnen",
+  "date": "DATUM",
+  "compaign": "KAMPAGNE",
+  "view": "AUSSICHT",
+  "actions": "AKTION",
+  "viewPricing": "Preise anzeigen",
+  "csv": "CSV",
+  "report": "Bericht",
+  "scheduleAgain": "Erneut planen",
+  "pricing": "Preisgestaltung",
+  "close":"Schließen",
+  "de" : "Deutsche",
+  "en":"Englisch"
+}
